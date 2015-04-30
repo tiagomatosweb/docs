@@ -1494,7 +1494,6 @@ A list of the default templates and the variables they can expect are:
 * ``radioWrapper``  {{input}}, {{label}}
 * ``select`` {{name}}, {{attrs}}, {{content}}
 * ``selectMultiple`` {{name}}, {{attrs}}, {{content}}
-* ``submitContainer`` {{content}}
 * ``textarea``  {{name}}, {{attrs}}, {{value}}
 * ``submitContainer`` {{content}}
 
